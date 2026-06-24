@@ -131,7 +131,7 @@ Implemented using:
 
 * Circuit Breaker Pattern
 * Retry Mechanism
-* Fallback Methods
+* Fallback Method
 
 ### Centralized Configuration
 
